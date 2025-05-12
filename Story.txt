@@ -1,0 +1,26 @@
+=== Header Line ===
+This is a sample text file for testing file handling functions in C.
+Each line is meant to help test a specific functionality.
+
+--- Section: Characters ---
+A
+B
+C
+
+--- Section: Strings ---
+Hello, World!
+This is a test string.
+C programming is fun.
+
+--- Section: Numbers ---
+123
+456.78
+-90
+
+--- Section: Blank Lines ---
+
+
+
+
+--- Section: EOF Test ---
+This is the last line before EOF.
