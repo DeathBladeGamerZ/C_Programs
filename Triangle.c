@@ -8,7 +8,7 @@ int main() {
     printf("Enter the number of rows: ");
     scanf("%d", &rows);
     
-    for (i = 1; i <= rows; i++) {
+    for (i = 1; i <= rows; i++) {   
         // Print spaces for alignment
         for (j = 1; j <= (rows - i); j++) {
             printf(" ");
